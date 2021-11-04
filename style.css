@@ -4,9 +4,8 @@
 }
 
 .homeimage{
-    background-image: url("../icttour/images/img.jpg");
+    background-image: url("images/img.jpg");
     background-size: 100%;
-    
     height: auto;
 }
 .main{
@@ -23,7 +22,6 @@
     margin-top: 7%;
     margin-left: 44%;
     margin-right: 85%;
-    
     width: 13%;
     
 }
@@ -36,19 +34,12 @@
     font-size: 20px;
     border-radius: 20px;
     font-weight: 200;
-    
     margin-left: 44%;
     margin-right: 65%;
-    
     width: 13%;
     
 }
-
-
-
-
-
-body{
+.body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .navbar-brand img{
@@ -78,7 +69,7 @@ margin: 100px;}
     padding: 20px 40px 50px;
     border: 2px solid #e5e5e5;
     border-radius: 20px;
-   
+ 
 }
    
 .bg-img{
@@ -125,7 +116,7 @@ h1{
        position: relative;
        bottom: 105px;
        margin-left: -10px;
-       
+    
    }
    
   .kovalam-details{
@@ -152,14 +143,11 @@ h1{
       /* margin-left: 150px; */
       margin-right: 200px;  
     }
-    
-   
-   
+        
    .carousel-item{
        height: 35rem;
        background-color: #777;
-      
-       
+         
    }
    .carousel-text{ 
        line-height: 30px;
