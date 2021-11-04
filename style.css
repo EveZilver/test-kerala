@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.homeimage{
+    background-image: url("../icttour/images/img.jpg");
+    background-size: 100%;
+    
+    height: auto;
+}
+.main{
+    margin-top: 7%;
+}
+.logo{
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #1f97c7;
+    padding: 0px 55px  ;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: 200;
+    margin-top: 7%;
+    margin-left: 44%;
+    margin-right: 85%;
+    
+    width: 13%;
+    
+}
+
+.logo1{
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #1f97c7;
+    padding: 0px 55px  ;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: 200;
+    
+    margin-left: 44%;
+    margin-right: 65%;
+    
+    width: 13%;
+    
+}
+
+
+
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand img{
+height: 40px;
+padding left: 80px;
+}
+.navbar-nav li a
+{
+    color:  #fff;
+    font-weight: 900;
+ }
+ 
+ /* login starts*/
+ .form-group{
+    height: 65px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+ }
+ .container{border: 0px solid #fff; padding: 80px 70px;
+margin: 100px;}
+
+
+.form-container{
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 20px 40px 50px;
+    border: 2px solid #e5e5e5;
+    border-radius: 20px;
+   
+}
+   
+.bg-img{
+    background-image: url("../icttour/images/login.jpg");
+    max-width: 100%;
+    height: auto;
+}  
+/* login ends */
+/* sign up starts*/
+.background-image{
+    background-image: url("../icttour/images/sign.jpg");
+    background-image: 80%;
+}
+.signup-box{
+    width:360px;
+    height: 820px;
+    margin:auto;
+    background-color:white;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+
+}
+.form {
+   width: 300px;
+   margin-left: 20px;
+   font-size: 14px;
+}
+.form-box{
+    max-width: 1700px;
+    margin: 500 ;
+    padding: 30px 100px 200px;
+}
+
+/* sign up ends*/
+
+    /* tvm starts here */
+    .features{
+        text-align: center;
+    }
+   .feature-img{
+       position: relative;
+       bottom: 105px;
+       margin-left: -10px;
+       
+   }
+   
+  .kovalam-details{
+      text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;
+    }
+    .Jatayu-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+    .punaloor-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+    .munroe-details{
+        text-align:center;
+      font-weight: 500;
+      /* margin-left: 150px; */
+      margin-right: 200px;  
+    }
+    
+   
+   
+   .carousel-item{
+       height: 35rem;
+       background-color: #777;
+      
+       
+   }
+   .carousel-text{ 
+       line-height: 30px;
+       margin-left: 100px;
+       margin-right: 100px;
+   }
+   .carousel-image{
+       position: sticky;
+       margin-left: 350px;
+   }
