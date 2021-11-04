@@ -73,14 +73,14 @@ margin: 100px;}
 }
    
 .bg-img{
-    background-image: url("../icttour/images/login.jpg");
+    background-image: url("images/login.jpg");
     max-width: 100%;
     height: auto;
 }  
 /* login ends */
 /* sign up starts*/
 .background-image{
-    background-image: url("../icttour/images/sign.jpg");
+    background-image: url("images/sign.jpg");
     background-image: 80%;
 }
 .signup-box{
